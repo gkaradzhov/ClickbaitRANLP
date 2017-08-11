@@ -21,8 +21,10 @@ Please, cite the following paper if you use the resources below:
 | LDA | LDA topic models generated with gensim on ~100 000 bulgarian news articles  | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4R1ozLU43T181WFE) | 
 | Word2Vec | Word2Vec model generated with gensim on ~100 000 bulgarian news articles   | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4RllVZGE2Z1pxeG8) | 
 | Stopwords | Dictionary with stop words | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4TVF6MHhsTXhtaEk) | 
-| Typos | Common typos | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4UWRIWTkxR3U0OFE) | 
 | PMI-content-clickbait | Calculated PMI scores over article content in regards to clickbait label | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4ZnJXSkhwbHEtX1E) | 
 | PMI-content-non-factual | Calculated PMI scores over article content in regards to not-factual label | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4NkpuYkpwSy1TT28) | 
 | PMI-header-clickbait | Calculated PMI scores over article header in regards to clickbait label | [Download](https://drive.google.com/open?id=0B0rQz7n3NJj4QV9HWGtXY0lGaGc) | 
 | PMI-header-non-factual |  Calculated PMI scores over article header in regards to not-factual label | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4SDJXdXM4c2JsUEU) | 
+| Typos |  List of words that are frequently mistyped in Bulgarian | [Download](https://drive.google.com/open?id=0B-N_VIy8wtKndFhyWjJTaUtQZE0) | 
+| Foreign Words |  List of words with foreign origin used in Bulgarian language. | [Download](https://docs.google.com/document/d/1V2f-dQ0zPc-GGBNn8ymNb3sqU1WdERRt5Fga-RLthpI/edit?usp=sharing) | 
+| Frequency List |  Frequency list of Bulgarian words, taken from Wikpedia. | [Download](https://drive.google.com/file/d/0B-N_VIy8wtKna3JRM2h2eVZQUXc/view?usp=sharing) | 

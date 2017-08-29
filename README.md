@@ -9,9 +9,17 @@ It is completely amazing! Fake news and click-baits have totally invaded the cyb
 
 Please, cite the following paper if you use the resources below:
 ```bib
-@InProceedings{
+@InProceedings{RANLP2017:clickbait,
+  author    = {Georgi Karadzhov and Pepa Gencheva and Preslav Nakov and Ivan Koychev},
+  title     = {{We Built a Fake News \& Click-bait Filter: What Happened Next Will Blow Your Mind!},
+  booktitle = {Proceedings of the 2017 International Conference on Recent Advances in Natural Language Processing},
+  month     = {September},
+  year      = {2017},
+  address   = {Varna, Bulgaria},
+  series    = {RANLP~'17}
 }
 ```
+
 ## Resources
 
 

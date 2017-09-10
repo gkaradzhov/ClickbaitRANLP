@@ -4,14 +4,14 @@
 It is completely amazing! Fake news and click-baits have totally invaded the cyber space. Let us face it: everybody hates them for three simple reasons. Reason №2 will absolutely amaze you. What these can achieve at the time of election will completely blow your mind! Now, we all agree, this cannot go on, you know, somebody has to stop it. So, we did this research on fake news/click-bait detection and trust us, it is totally great research, it really is! Make no mistake. This is the best research ever!  Seriously, come have a look, we have it all: neural networks, attention mechanism, sentiment lexicons, author profiling, you name it. Lexical features, semantic features, we absolutely have it all. And we have totally tested it, trust us! We have results, and numbers, really big numbers. The best numbers ever! Oh, and analysis, absolutely top notch analysis. Interested? Come read the shocking truth about fake news and click-bait in the Bulgarian cyber space. You won't believe what we have found!
 
 ## Authors:
-
+Georgi Karadzhov, Pepa Gencheva, Preslav Nakov, Ivan Koychev
 ## Paper link: 
 
 Please, cite the following paper if you use the resources below:
 ```bib
 @InProceedings{RANLP2017:clickbait,
   author    = {Georgi Karadzhov and Pepa Gencheva and Preslav Nakov and Ivan Koychev},
-  title     = {{We Built a Fake News \& Click-bait Filter: What Happened Next Will Blow Your Mind!},
+  title     = {We Built a Fake News \& Click-bait Filter: What Happened Next Will Blow Your Mind!},
   booktitle = {Proceedings of the 2017 International Conference on Recent Advances in Natural Language Processing},
   month     = {September},
   year      = {2017},

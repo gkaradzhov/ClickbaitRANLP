@@ -5,7 +5,7 @@ It is completely amazing! Fake news and click-baits have totally invaded the cyb
 
 ## Authors:
 Georgi Karadzhov, Pepa Gencheva, Preslav Nakov, Ivan Koychev
-## Paper link: 
+## Paper link: http://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP045.pdf
 
 Please, cite the following paper if you use the resources below:
 ```bib

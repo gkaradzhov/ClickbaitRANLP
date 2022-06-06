@@ -30,7 +30,7 @@ Please, cite the following paper if you use the resources below:
 | Word2Vec | Word2Vec model generated with gensim on ~100 000 bulgarian news articles   | [Download](https://drive.google.com/file/d/0B0rQz7n3NJj4RllVZGE2Z1pxeG8/view?usp=sharing&resourcekey=0-6gZYdc6Mibjt6uOvXz7xgg) | 
 | Stopwords | Dictionary with stop words | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4TVF6MHhsTXhtaEk) | 
 | PMI-content-clickbait | Calculated PMI scores over article content in regards to clickbait label | [Download](https://drive.google.com/file/d/0B0rQz7n3NJj4ZnJXSkhwbHEtX1E/view?usp=sharing&resourcekey=0-DA4zb1vvVa4ZUCQA2KgD6w) | 
-| PMI-content-non-factual | Calculated PMI scores over article content in regards to not-factual label | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4NkpuYkpwSy1TT28) | 
+| PMI-content-non-factual | Calculated PMI scores over article content in regards to not-factual label | [Download](https://drive.google.com/file/d/0B0rQz7n3NJj4NkpuYkpwSy1TT28/view?usp=sharing&resourcekey=0-g8fwo1pYOv5vi8z4yYhTxw) | 
 | PMI-header-clickbait | Calculated PMI scores over article header in regards to clickbait label | [Download](https://drive.google.com/file/d/0B0rQz7n3NJj4QV9HWGtXY0lGaGc/view?usp=sharing&resourcekey=0-Y648g6VDJW_hvrvSq26ttA) | 
 | PMI-header-non-factual |  Calculated PMI scores over article header in regards to not-factual label | [Download](https://drive.google.com/file/d/0B0rQz7n3NJj4SDJXdXM4c2JsUEU/view?usp=sharing&resourcekey=0-UekgyOeD6BCwX7CUf6clGQ) | 
 | Typos |  List of words that are frequently mistyped in Bulgarian | [Download](https://drive.google.com/open?id=0B-N_VIy8wtKndFhyWjJTaUtQZE0) | 

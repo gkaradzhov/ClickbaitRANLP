@@ -26,7 +26,7 @@ Please, cite the following paper if you use the resources below:
 | Name | Short description | Link|
 | --- | --- | --- |
 | News | Bulgarian news, each labeled wheter it is factual or not and whether it is a clickbait or not  | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4NWgzczJDTGUxUGc) | 
-| LDA | LDA topic models generated with gensim on ~100 000 bulgarian news articles  | [Download]([https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4R1ozLU43T181WFE](https://drive.google.com/file/d/0B0rQz7n3NJj4R1ozLU43T181WFE/view?usp=sharing&resourcekey=0-4fD5sArJw56_FG-k2Z2P7g)) | 
+| LDA | LDA topic models generated with gensim on ~100 000 bulgarian news articles  | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4R1ozLU43T181WFE) | 
 | Word2Vec | Word2Vec model generated with gensim on ~100 000 bulgarian news articles   | [Download](https://drive.google.com/file/d/0B0rQz7n3NJj4RllVZGE2Z1pxeG8/view?usp=sharing&resourcekey=0-6gZYdc6Mibjt6uOvXz7xgg) | 
 | Stopwords | Dictionary with stop words | [Download](https://drive.google.com/uc?export=download&id=0B0rQz7n3NJj4TVF6MHhsTXhtaEk) | 
 | PMI-content-clickbait | Calculated PMI scores over article content in regards to clickbait label | [Download](https://drive.google.com/file/d/0B0rQz7n3NJj4ZnJXSkhwbHEtX1E/view?usp=sharing&resourcekey=0-DA4zb1vvVa4ZUCQA2KgD6w) | 
